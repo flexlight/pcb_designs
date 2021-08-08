@@ -1,0 +1,90 @@
+{
+  "uuid": "027734c7c70e1ccc7cbd9169ae340dde",
+  "path": "Offline/FlexLight",
+  "name": "FlexLight",
+  "content": "FlexLight PCB Designs",
+  "created_at": "2021-08-07 22:28:59",
+  "updated_at": "2021-08-08 19:52:16",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "18e568d221b0ed58b126eefbe53093aa",
+      "title": "LED PCB",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1cf51dd859514214a0ffcca637344263": 5,
+        "61a87facdbf84ad883af2d78beb01232": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Castellated_Pad x1",
+          5,
+          "CASTELLATED_PAD_2",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "30d562e783934e38a5c4577fd8a32d71",
+            "uuid": "1cf51dd859514214a0ffcca637344263"
+          }
+        ],
+        [
+          "WS2813-MINI(WS2813-3535)",
+          8,
+          "LED-SMD_L3.5-W3.5-P1.10-BR",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C189639",
+            "BOM_Manufacturer": "Worldsemi",
+            "BOM_Manufacturer Part": "WS2813-Mini(WS2813-3535)",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "aee5a3237f094a12b118ef5e9a1b06d3",
+            "uuid": "61a87facdbf84ad883af2d78beb01232"
+          }
+        ]
+      ],
+      "updateTime": 1628436889,
+      "createTime": 1628430694,
+      "histories": [],
+      "created_at": "2021-08-08 15:51:34",
+      "updated_at": "2021-08-08 17:34:49"
+    },
+    {
+      "uuid": "46a05d53abbc2682cba6d958c161ba89",
+      "puuid": "027734c7c70e1ccc7cbd9169ae340dde",
+      "title": "PCB_FlexLight",
+      "filename": "PCB_FlexLight.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "30d562e783934e38a5c4577fd8a32d71": 5,
+        "aee5a3237f094a12b118ef5e9a1b06d3": 8
+      },
+      "BOM": [],
+      "updateTime": 1628445136,
+      "createTime": 1628438246,
+      "histories": [],
+      "created_at": "2021-08-08 17:57:26",
+      "updated_at": "2021-08-08 19:52:16"
+    }
+  ],
+  "sort": [],
+  "title": "FlexLight",
+  "foldername": "FlexLight",
+  "schfilename": "FlexLight.json",
+  "schfilemtime": 1628436890000
+}
