@@ -1,0 +1,9 @@
+Designator	Footprint	Mid X	Mid Y	Ref X	Ref Y	Pad X	Pad Y	Layer	Rotation	Comment
+"LED1"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"6.6mm"	"-1.9mm"	"6.6mm"	"-1.9mm"	"8.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED2"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"24.6mm"	"-1.9mm"	"24.6mm"	"-1.9mm"	"26.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED3"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"42.6mm"	"-1.9mm"	"42.6mm"	"-1.9mm"	"44.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED4"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"60.6mm"	"-1.9mm"	"60.6mm"	"-1.9mm"	"62.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED5"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"78.6mm"	"-1.9mm"	"78.6mm"	"-1.9mm"	"80.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED6"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"96.6mm"	"-1.9mm"	"96.6mm"	"-1.9mm"	"98.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED7"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"114.6mm"	"-1.9mm"	"114.6mm"	"-1.9mm"	"116.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
+"LED8"	"LED-SMD_L3.5-W3.5-P1.10-BR"	"132.6mm"	"-1.9mm"	"132.6mm"	"-1.9mm"	"134.1mm"	"-3.01mm"	"T"	"0"	"WS2813-MINI(WS2813-3535)"
