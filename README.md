@@ -2,7 +2,7 @@
 
 ## Software used
 
-We create all our PCB designs using EasyEDA to enable fast and easy ordering or PCBs from jlcpcb.
+We create all our PCB designs using EasyEDA to enable fast and easy ordering of PCBs from jlcpcb.
 Just import the project files and tinker away.
 For even easier ordering you can also just download the Gerber, BOM and CPL files that are available in the gerber directory of each PCB folder.
 
