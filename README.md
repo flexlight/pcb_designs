@@ -13,3 +13,4 @@ For even easier ordering you can also just download the Gerber, BOM and CPL file
 ![LED PCB](/led_pcb/PCB_Layout.png)
 
 The led PCB holds 8 argb ws2813-mini LED's for illumination and is soldered to each one of the main PCBs via the 5 connecting plates in the lower middle.
+it measures 140 x 5,4 in mm, we wanted to have this one as thin as possible to not add unneccesary thickness to the flexlight case.
