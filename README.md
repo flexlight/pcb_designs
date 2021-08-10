@@ -15,6 +15,9 @@ For even easier ordering you can also just download the Gerber, BOM and CPL file
 The led PCB holds 8 argb ws2813-mini LED's for illumination and is soldered to each one of the main PCBs via the 5 connecting plates in the lower middle.
 it measures 140 x 5,4 in mm, we wanted to have this one as thin as possible to not add unneccesary thickness to the flexlight case.
 
+The gerber files of this PCB are pre-panelized to hold 6 PCB's in one production run. This was needed for JLCPCB's SMT assembly since their minimum PCB size is 20mm x 20mm and our LED PCB width is just 5.4mm, that way if you order with the pre-made gerbers at jlcpcb you will end up with a minimum order of 30 LED PCBs which should be enough for 10 triangle shaped flexlight nodes
+
+
 ### Inteconnect PCB:
 
 ![Inteconnect PCB](/interconnect_pcb/PCB_Layout.png)
