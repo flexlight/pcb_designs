@@ -24,3 +24,12 @@ The gerber files of this PCB are pre-panelized to hold 6 PCB's in one production
 
 The Interconnect PCB is used to connect 2 nodes together, it is probably the most simple and most cheap PCB of our project, dosnt hold any components, just order and use.
 We use 2 contacts for 24v and GND to be able to deliver up to 6A to the Flexlight array and power up to 60 nodes safely from a single power source.
+
+
+### Mainboard BLANK PCB:
+
+![Mainboard BLANK PCB](/mainboard_blank/PCB_Layout.png)
+
+Mainboard BLANK PCB is one of 3 similar board that are providing connectivity between all 3 LED PCBs, the microcontroller, voltage and inter-node connectivity.
+
+WARNING: this one is still work in progress, currently known limitation: the backup line feature of the ws2813 mini leds is only working within a single PCB, a future revision might fix this to make sure all 3 LED PCBs share one common backup signal input line.
